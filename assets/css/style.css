@@ -241,6 +241,11 @@ footer {
 	}
 }
 
+.hangman {
+	padding-right: 72px;
+	padding-left: 72px;
+}
+
 @media (max-width: 768px) {
 	.container {
 		width: 768px;
