@@ -196,6 +196,26 @@ footer {
 	left: 0;
 }
 
+.rpg {
+	padding-right: 48px;
+	padding-left: 47px;
+}
+
+.trivia {
+	padding-right: 60px;
+	padding-left: 60px;
+}
+
+.train {
+	padding-right: 45px;
+	padding-left: 45px;
+}
+
+.rps {
+	padding-right: 68px;
+	padding-left: 69px;
+}
+
 @media (max-width: 980px) {
 
 	.main {
@@ -239,13 +259,12 @@ footer {
 		margin-right: 97px;
 		margin-left: 115px;
 	}
-}
 
-.hangman {
-	padding-right: 72px;
-	padding-left: 72px;
+	.hangman {
+		padding-right: 72px;
+		padding-left: 72px;
+	}
 }
-
 @media (max-width: 768px) {
 	.container {
 		width: 768px;
@@ -275,7 +294,7 @@ footer {
 	h1 {
 		margin-left: 20px;
 	}
-
+}
 @media (max-width: 640px) {
 
 	.container {
